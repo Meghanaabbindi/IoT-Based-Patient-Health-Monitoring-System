@@ -20,5 +20,12 @@ Sensors collect patient data and send it to the system. The data can be accessed
 - Arduino Code (.ino)
 - Project Documentation (PDF)
 
+## Note
+The source code is currently not included as the project was developed as part of an academic lab setup. It will be added soon.
+
+## Project Components
+- Arduino-based hardware setup
+- Sensors for patient monitoring
+- IoT-based data transmission
 ## Outcome
 This system enhances patient safety by enabling continuous monitoring and faster response during emergencies.
