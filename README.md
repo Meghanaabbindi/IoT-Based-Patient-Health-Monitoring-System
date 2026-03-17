@@ -22,4 +22,3 @@ Sensors collect patient data and send it to the system. The data can be accessed
 
 ## Outcome
 This system enhances patient safety by enabling continuous monitoring and faster response during emergencies.
-This project monitors patiIDE,IOT.How It Works:Sensors collect patient data and send it to the system,which canbe accessed remotely by doctors.Helps in monitoring patients when medicalstaff are not available and improves emergency,responsetime.
